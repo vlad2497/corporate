@@ -1,0 +1,32 @@
+.settings {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  height: 50%;
+  padding-top: 80px;
+}
+
+.settings .card {
+  width: 471px;
+  height: 158px;
+  padding-top: 30px;
+
+  background: #ffffff;
+  border-radius: 5px;
+
+  margin-bottom: 42px;
+}
+
+.settings .card__header {
+  font-family: GothamProBlack;
+  font-size: 25px;
+  line-height: 24px;
+  text-align: center;
+  margin-bottom: 27px;
+  color: #1b1d2e;
+}
+
+.settings .clear_button {
+  margin-top: 40px;
+}
